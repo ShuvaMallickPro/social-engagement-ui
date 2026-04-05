@@ -1,18 +1,39 @@
-# Social Netowrking Landing Page HTML Template
+# Social engagement landing page (HTML & CSS)
 
-Live: https://shuvomallick01.github.io/Social-Networking-Landing-Page-HTML-Template/
+A single-page marketing layout for a social or community product: hero, navigation with search, and anchored sections for community, events, and blog. Built with semantic HTML and custom CSS—no build step required.
 
-## Tools/Technologies
+**Live demo:** [GitHub Pages](https://shuvamallickpro.github.io/social-engagement-ui/)  
+**Repository:** [github.com/ShuvaMallickPro/social-engagement-ui](https://github.com/ShuvaMallickPro/social-engagement-ui)
 
-- HTML/CSS
-- Google Fonts
-- More
+## Preview
+
+![UI preview](ui-preview.png)
+
+## Tech stack
+
+- HTML5
+- CSS3
+- [Google Fonts](https://fonts.google.com/) — Inter
+- [Font Awesome 6](https://fontawesome.com/) (CDN)
 
 ## Features
 
-- Clean & Smooth Code
-- Creative and Modern Design
-- Fully Responsive
-- Easy to customize
-- Cross Browser Support
-- No console error
+- Responsive layout
+- Sticky-style header with logo, nav links, search, and login CTA
+- In-page sections: Home, Community, Events, Blog
+- Modern UI suitable for customization or portfolio use
+
+## Getting started
+
+1. Clone or download this repository.
+2. Open `index.html` in your browser, or serve the folder with any static file server.
+
+## Project structure
+
+```
+├── index.html
+├── css/
+│   └── style.css
+├── images/
+└── README.md
+```
